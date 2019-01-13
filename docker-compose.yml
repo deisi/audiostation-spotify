@@ -5,7 +5,7 @@ services:
     build:
       context: .
     container_name: spotify
-    image: audiostation/spotify:v1.0
+    image: audiostation/spotify:v1.1
     network_mode: "host"
     volumes:
       - /tmp/sharesound:/tmp/sharesound
