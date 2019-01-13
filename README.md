@@ -2,6 +2,7 @@ docker.io Spotifyd - Spotify Device + Remote Control
 ===================================================
 
 Simple dockerfile with spotifyd + spotifyd-http
+THIS IS NOT CORRECT ANY MORE
 
 
 Configure it
