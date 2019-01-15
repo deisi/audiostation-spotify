@@ -1,5 +1,6 @@
 [![](https://images.microbadger.com/badges/image/audiostation/spotify.svg)](https://microbadger.com/images/audiostation/spotify "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/audiostation/spotify.svg)](https://microbadger.com/images/audiostation/spotify "Get your own version badge on microbadger.com")
+[![Build Status](https://travis-ci.org/deisi/audiostation-spotify.svg?branch=master)](https://travis-ci.org/deisi/audiostation-spotify)
 
 docker.io Spotifyd - Spotify Device + Remote Control
 ===================================================
